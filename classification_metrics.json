@@ -1,0 +1,6 @@
+[
+  {"Model": "VGG16", "Accuracy": 0.84, "Precision": 0.83, "Recall": 0.82, "F1": 0.82},
+  {"Model": "ResNet50", "Accuracy": 0.89, "Precision": 0.88, "Recall": 0.87, "F1": 0.87},
+  {"Model": "MobileNetV2", "Accuracy": 0.85, "Precision": 0.84, "Recall": 0.83, "F1": 0.83},
+  {"Model": "EfficientNetB0", "Accuracy": 0.92, "Precision": 0.91, "Recall": 0.90, "F1": 0.90}
+]
